@@ -1,0 +1,98 @@
+.icon-1 {
+    background-color: grey;
+    padding: 10px;
+}
+
+.fa-line-chart {
+    background-color: grey;
+    padding: 15px;
+    border-radius: 50%;
+}
+
+.fa-comments-o {
+    background-color: grey;
+    padding: 15px;
+    border-radius: 50%;
+}
+
+.light-green {
+    background-color: #30f030;
+    font-size: 20px;
+}
+
+.mid-green {
+    background-color: #14bb14;
+    font-size: 20px;
+}
+
+.dark-green {
+    background-color: #0d770d;
+    font-size: 20px;
+}
+
+.our {
+    margin-top: 80px;
+}
+
+.fa-angle-right {
+    background: #0d770d;
+    padding: 10px;
+    color: #fff;
+    border-radius: 50%;
+}
+
+.green {
+    margin-left: 90px;
+}
+
+.learn {
+    margin-top: 70px;
+}
+
+blockquote {
+    font-size: 25px;
+    font-family: serif;
+    font-style: italic;
+}
+
+.contact {
+    background: url(./img/contact-details-map.png) no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.contact span {
+    margin-right: 20px;
+}
+
+#p1 {
+    margin-top: 60px;
+    padding: 30px;
+}
+
+.footer {
+    margin-top: 50px;
+    /* margin-bottom: 50px; */
+}
+
+.para {
+    padding: 0 30px;
+    padding-bottom: 30px;
+
+}
+
+.navbar-toggler-icon {
+    background: #aa0766;
+    color: #000 !important;
+}
+
+
+@media (min-width: 576px)and (max-width:576px) {
+    .main {
+        font-size: 25px;
+    }
+
+    .graph {
+        font-size: 16px;
+    }
+}
